@@ -14,8 +14,8 @@
 
   <h2>Purpose</h2>
   <p>
-    The goal of Neuric is to encourage cognitive engagement by targeting
-    memory, attention, and processing speed in an accessible format.
+    The goal of Thought Threads is the exchange of supervised letters between the youth and aged
+    to strengthen mental well-being and reduce lonliness.
   </p>
 
   <p><em>This project is for educational purposes only.</em></p>
