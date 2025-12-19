@@ -9,8 +9,7 @@
 
   <h2>Threads</h2>
   <p>
-    Neuric is a web-based platform designed to support neuroplasticity
-    through short, research-informed cognitive exercises.
+   Thought Threads is a web-based platform designed to connect students and seniors with intergenerational bonds.
   </p>
 
   <h2>Purpose</h2>
