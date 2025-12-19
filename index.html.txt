@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Neuric</title>
+  <title>Thought Threads</title>
   <meta charset="UTF-8">
 </head>
 <body>
-  <h1>Neuric</h1>
+  <h1>Thought</h1>
 
-  <h2>Mission</h2>
+  <h2>Threads</h2>
   <p>
     Neuric is a web-based platform designed to support neuroplasticity
     through short, research-informed cognitive exercises.
